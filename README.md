@@ -83,7 +83,7 @@ Currently vibing with backend systems, Web3 contracts, AI agents, and whatever e
 
 ## ⚡ Fun Fact
 
-> “I’m trying to build the Jarvis I wanted as a kid — except mine runs on Ethers.js, LangChain, and a ton of coffee.”
+> “I’m trying to build the Jarvis I wanted as a kid.”
 
 ---
 
