@@ -28,7 +28,7 @@ Currently vibing with backend systems, Web3 contracts, AI agents, and whatever e
 <img src="https://skillicons.dev/icons?i=react" /> (with Expo)
 
 ### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,aws" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,aws,prisma,sequelize,redis" />
 
 ### DevTools & Web3
 <img src="https://skillicons.dev/icons?i=git,github,vscode" /> + Hardhat, Foundry, Ethers.js, LangChain
