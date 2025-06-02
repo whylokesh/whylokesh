@@ -27,11 +27,15 @@ Currently vibing with backend systems, Web3 contracts, AI agents, and whatever e
 ### Mobile & Frontend
 <img src="https://skillicons.dev/icons?i=react" /> (with Expo)
 
-### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,aws,prisma,sequelize,redis" />
+### Databases & ORM
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,prisma,sequelize,redis" />
 
 ### DevTools & Web3
 <img src="https://skillicons.dev/icons?i=git,github,vscode" /> + Hardhat, Foundry, Ethers.js, LangChain
+
+### DevOps & Containerization
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />  
+*Also experienced with VPS hosting and server-level deployment*
 
 ---
 
