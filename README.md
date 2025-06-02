@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-Hey there! I'm Lokesh — a curious builder who loves creating systems, speculating on future tech, and hacking things together to see what sticks.  
+Hey there! I'm a curious builder who loves creating systems, speculating on future tech, and hacking things together to see what sticks.  
 
 I don’t just code for the sake of it. I code to **ship real stuff**, solve meaningful problems, and make tech that actually helps.  
 Currently vibing with backend systems, Web3 contracts, AI agents, and whatever else feels exciting.
