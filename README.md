@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Lokesh Jha 👋</h1>
 
 <p align="center">
-  <em>Backend-heavy Full Stack Developer • Web3 Tinkerer • AI Agent Hacker</em><br>
+  <em>Full Stack Developer (Mostly Backend) • Web3 & AI Enthusiast</em><br>
   <em>I like building products, simplifying things, and solving big problems with small, powerful code.</em>
 </p>
 
