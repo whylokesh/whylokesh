@@ -22,7 +22,7 @@ Currently vibing with backend systems, Web3 contracts, AI agents, and whatever e
 <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,solidity" />
 
 ### Web & Frameworks
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,django,flask" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,django,flask" />
 
 ### Mobile & Frontend
 <img src="https://skillicons.dev/icons?i=react" /> (with Expo)
