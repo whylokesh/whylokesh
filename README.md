@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Backend-heavy Full Stack Developer • Web3 Tinkerer • AI Agent Hacker</em><br>
-  <em>I like building products, breaking things (on purpose), and solving big problems with small, powerful code.</em>
+  <em>I like building products, simplifying things, and solving big problems with small, powerful code.</em>
 </p>
 
 ---
@@ -25,13 +25,13 @@ Currently vibing with backend systems, Web3 contracts, AI agents, and whatever e
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,django,flask" />
 
 ### Mobile & Frontend
-<img src="https://skillicons.dev/icons?i=react" /> (with Expo)
+<img src="https://skillicons.dev/icons?i=react,expo" /> (with Expo)
 
 ### Databases & Cloud
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,aws" />
 
 ### DevTools & Web3
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /> + Hardhat, Foundry, Ethers.js, LangChain
+<img src="https://skillicons.dev/icons?i=git,github,vscode,hardhat,foundry,ethers,langChain" /> + Hardhat, Foundry, Ethers.js, LangChain
 
 ---
 
