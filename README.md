@@ -34,7 +34,7 @@ Currently vibing with backend systems, Web3 contracts, AI agents, and whatever e
 ### Databases & ORM
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,prisma,sequelize,redis" />
 
-### DevTools & Web3
+### DevTools
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ### DevOps & Containerization
