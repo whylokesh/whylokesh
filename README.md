@@ -37,6 +37,14 @@ Currently vibing with backend systems, Web3 contracts, AI agents, and whatever e
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />  
 *Also experienced with VPS hosting and server-level deployment*
 
+### Web3 & AI
+<p>
+  <img src="https://img.shields.io/badge/Hardhat-181717?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-%23000000?style=for-the-badge&logo=forge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-%234285F4?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 ---
 
 ## 💼 Experience
