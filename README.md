@@ -25,13 +25,17 @@ Currently vibing with backend systems, Web3 contracts, AI agents, and whatever e
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,django,flask" />
 
 ### Mobile & Frontend
-<img src="https://skillicons.dev/icons?i=react" /> (with Expo)
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
 
 ### Databases & ORM
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,prisma,sequelize,redis" />
 
 ### DevTools & Web3
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /> + Hardhat, Foundry, Ethers.js, LangChain
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ### DevOps & Containerization
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />  
