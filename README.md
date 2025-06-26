@@ -19,7 +19,7 @@ Currently vibing with backend systems, Web3 contracts, AI agents, and whatever e
 ## 🛠️ Tech Stack
 
 ### Languages & Runtime
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,solidity" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,go,solidity" />
 
 ### Web & Frameworks
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,django,flask" />
