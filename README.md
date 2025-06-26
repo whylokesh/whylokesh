@@ -57,8 +57,8 @@ Currently vibing with backend systems, Web3 contracts, AI agents, and whatever e
 **Exploring | Freelance Engineer** (July 2024 – Present)  
 - Diving deep into AI and blockchain industries while mastering core engineering fundamentals to understand how systems work on-chain and off-chain.  
 - Assisting businesses to onboard their operations and workflows into tech-powered applications, enhancing efficiency and automation.  
-- Building and iterating personal projects like **Devise** — a next-gen productivity app blending AI, bullet journaling, and reflective insights to help users track and improve their habits and output.  
-- Actively participating in Web3 hackathons and engaging with the open-source community to contribute and learn cutting-edge tech.  
+- Building and iterating personal projects like **Daywise** — a next-gen productivity app blending AI, bullet journaling, and reflective insights to help users track and improve their habits and output.  
+- Actively participating in Web3 & AI hackathons and engaging with the open-source community to contribute and learn cutting-edge tech.  
 
 ### ⚙️ InveeSync  
 **Backend Developer** (Mar 2024 – July 2024)  
