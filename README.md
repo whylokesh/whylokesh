@@ -87,7 +87,7 @@ Currently vibing with backend systems, Web3 contracts, AI agents, and whatever e
 ### 🛍️ E-Commerce
 - 🛒 [Ramble Group](https://ramble-app.vercel.app/)  
 - 🛒 [Royal Heritage Trips](https://royalheritagetrips.vercel.app/)  
-- 🛒 Dews Furniture *(in progress)*
+- 🛒 [Dews Furniture](https://dewsfurniture.com)
 
 ### 🤖 AI Applications
 - 🤖 [EchoMind – AI Task Assistant](https://echomind.tech/)  
