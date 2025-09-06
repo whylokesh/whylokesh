@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm Lokesh Jha 👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer (Mostly Backend) • Web3 & AI Enthusiast</em><br>
-  <em>I like building products, simplifying things, and solving big problems with small, powerful code.</em>
+  <em>Full Stack Developer</em><br>
+<!--   <em>I like building products, simplifying things, and solving big problems with small, powerful code.</em> -->
+  <em>Curious by nature, with a restless mind that’s always tinkering, learning, and building new things.</em>
 </p>
 
 ---
