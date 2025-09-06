@@ -107,7 +107,7 @@ Currently vibing with backend systems, Web3 contracts, AI agents, and whatever e
 
 ## ⚡ Fun Fact
 
-> “I’m trying to build the Jarvis I wanted as a kid.”
+> “I’m trying to build everything I wanted as a kid.”
 
 ---
 
