@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Lokesh Jha 👋</h1>
 
 <p align="center">
-  <h2>Full Stack Developer</h2><br>
+  <em>Full Stack Developer</em><br>
 <!--   <em>I like building products, simplifying things, and solving big problems with small, powerful code.</em> -->
   <em>with a restless mind that’s always tinkering, learning, and building new things.</em>
 </p>
